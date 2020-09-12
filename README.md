@@ -12,28 +12,29 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkGmail]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][linkWhatsApp]
-[<img align="left" alt="Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][linkSkype]
-[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][linkSteam]
+[<img align="left" width="22px" alt="Gmail"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkGmail]
+[<img align="left" width="22px" alt="LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" alt="WhatsApp"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][linkWhatsApp]
+[<img align="left" width="22px" alt="Skype"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][linkSkype]
+[<img align="left" width="22px" alt="Steam"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][linkSteam]
 
 <br/>
 
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsCode" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="expressJS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodeJS" width="40" height="40"/> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactNative" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphQL" width="40" height="40"/>
+  <img width="22px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+  <img width="22px" alt="javaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" /> 
+  <img width="22px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" /> 
+  <img width="22px" alt="reactNative" src="https://reactnative.dev/img/header_logo.svg" /> 
+  <img width="22px" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
+  <img width="22px" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <img width="22px" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
+  <img width="22px" alt="gitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
+  <img width="22px" alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
+  <img width="22px" alt="expressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+  <img width="22px" alt="graphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+  <img width="22px" alt="mongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </p>
 
 ---
