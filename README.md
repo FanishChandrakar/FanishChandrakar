@@ -8,7 +8,7 @@
   - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> iOS][linkRotationLF-iOS]
   - [<img alt="android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" width="15px"> Android][linkRotationLF-Andriod]
 - 🌱 Currently learning node.js, express.js and graphQL 🤣
-- 💪 Proficient in: Mobile App Dev, React Native, Redux, Axois, ...
+- 💪 Proficient in: Mobile App Dev, JavaScript, Node, React Native, Redux, Axois, ...
 - ⚡ Fun fact: I love to play 🎮 [Video Games][linkSteam]. Currently playing Dota2.
 
 <br/>
