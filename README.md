@@ -25,7 +25,7 @@
 <p align="left">
   <img width="22px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
   <img width="22px" alt="javaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" /> 
-  <img width="22px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" /> 
+  <img width="22px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
   <img width="22px" alt="reactNative" src="https://reactnative.dev/img/header_logo.svg" /> 
   <img width="22px" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
   <img width="22px" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
