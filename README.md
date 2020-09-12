@@ -4,36 +4,41 @@
 
 ## I'm a Software Engineer !
 
-- 🔭 I’m currently working on a RotationLF( [<img alt="hello" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px">][linkRotationLF-iOS] / [<img alt="hello" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" width="15px">][linkRotationLF-Andriod] ) product of [Nanoprecise][linkNanoprecise] !
-- 🌱 I’m currently learning node.js, express.js and graphQL 🤣
-- 👨🏼‍💻 Proficient in: Mobile App Dev, React Native, Redux, Axois,....
-- ⚡ Fun fact: I love to play [Video Games][linkSteam]. Currently playing Dota2.
-
-
-###### `Connect with me:`
-
-[<img align="left" width="22px" alt="Gmail"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkGmail]
-[<img align="left" width="22px" alt="LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" alt="WhatsApp"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][linkWhatsApp]
-[<img align="left" width="22px" alt="Skype"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][linkSkype]
-[<img align="left" width="22px" alt="Steam"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][linkSteam]
+- 💻 Currently working on 📱 RotationLF App
+  - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> iOS][linkRotationLF-iOS]
+  - [<img alt="android" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" width="15px"> Android][linkRotationLF-Andriod]
+- 🌱 Currently learning node.js, express.js and graphQL 🤣
+- 💪 Proficient in: Mobile App Dev, React Native, Redux, Axois,....
+- ⚡ Fun fact: I love to play 🎮 [Video Games][linkSteam]. Currently playing Dota2.
 
 <br/>
+<br/>
 
-###### `Languages and Tools:`
+###### `Connect With Me:`
 
-<img align="left" width="50px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" width="50px" alt="javaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" /> 
-<img align="left" width="50px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
-<img align="left" width="50px" alt="reactNative" src="https://reactnative.dev/img/header_logo.svg" /> 
-<img align="left" width="50px" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
-<img align="left" width="50px" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" width="50px" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
-<img align="left" width="50px" alt="gitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
-<img align="left" width="50px" alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
-<img align="left" width="50px" alt="expressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" width="50px" alt="graphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" width="50px" alt="mongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+[<img align="left" width="30px" alt="Gmail"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkGmail]
+[<img align="left" width="30px" alt="LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="30px" alt="WhatsApp"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][linkWhatsApp]
+[<img align="left" width="30px" alt="Skype"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][linkSkype]
+[<img align="left" width="30px" alt="Steam"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][linkSteam]
+
+<br/>
+<br/>
+
+###### `Languages And Tools:`
+
+<img align="left" width="30px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img align="left" width="30px" alt="javaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" /> 
+<img align="left" width="30px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
+<img align="left" width="30px" alt="reactNative" src="https://reactnative.dev/img/header_logo.svg" /> 
+<img align="left" width="30px" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
+<img align="left" width="30px" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="30px" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
+<img align="left" width="30px" alt="gitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
+<img align="left" width="30px" alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
+<img align="left" width="30px" alt="expressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align="left" width="30px" alt="graphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" width="30px" alt="mongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br/>
 
