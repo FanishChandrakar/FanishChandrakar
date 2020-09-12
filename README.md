@@ -1,6 +1,7 @@
-### Hi there, 👋<br/> I'm Fanish Chandrakar - aka [FnH][linkedin]
+<!-- ### Hi there, 👋<br/> I'm Fanish Chandrakar - aka [FnH][linkedin] -->
+### Hi there, <img alt="hello" src="https://github.com/fanish29/fanish29/blob/master/hello.webp" width="25px"><br/> I'm Fanish Chandrakar - aka [FnH][linkedin]
 
-  <img align="right" alt="GIF" src="https://github.com/fanish29/fanish29/blob/master/code.gif?raw=true" width="40%" />
+  <img align="right" alt="GIF" src="https://github.com/fanish29/fanish29/blob/master/coding-freak.gif?raw=true" width="40%" />
 
 ## I'm a Software Engineer !
 
