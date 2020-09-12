@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer !
 
-- 🔭 I’m currently working on a RotationLF( [<img alt="hello" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px">][linkRotationLF-iOS]/[<img alt="hello" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" width="15px">][linkRotationLF-Andriod] ) product of [Nanoprecise][linkNanoprecise] !
+- 🔭 I’m currently working on a RotationLF( [<img alt="hello" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px">][linkRotationLF-iOS] / [<img alt="hello" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" width="15px">][linkRotationLF-Andriod] ) product of [Nanoprecise][linkNanoprecise] !
 - 🌱 I’m currently learning node.js, express.js and graphQL 🤣
 - 👨🏼‍💻 Proficient in: Mobile App Dev, React Native, Redux, Axois,....
 - ⚡ Fun fact: I love to play [Video Games][linkSteam]. Currently playing Dota2.
