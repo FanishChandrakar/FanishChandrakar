@@ -37,11 +37,6 @@
   <img width="40px" alt="mongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </p>
 
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-
 [linkedin]: https://www.linkedin.com/in/fanishchandrakar/
 [linkRotationLF-Andriod]: https://play.google.com/store/apps/details?id=com.and_nanoprecise&hl=en_IN/
 [linkRotationLF-iOS]: https://appstoreconnect.apple.com/apps/1451521554/appstore/info/
