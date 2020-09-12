@@ -22,20 +22,20 @@
 
 ### Languages and Tools:
 
-<p align="left">
-  <img width="40px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-  <img width="40px" alt="javaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" /> 
-  <img width="40px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
-  <img width="40px" alt="reactNative" src="https://reactnative.dev/img/header_logo.svg" /> 
-  <img width="40px" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
-  <img width="40px" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  <img width="40px" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
-  <img width="40px" alt="gitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
-  <img width="40px" alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
-  <img width="40px" alt="expressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-  <img width="40px" alt="graphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-  <img width="40px" alt="mongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</p>
+<img align="left" width="26px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img align="left" width="26px" alt="javaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" /> 
+<img align="left" width="26px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
+<img align="left" width="26px" alt="reactNative" src="https://reactnative.dev/img/header_logo.svg" /> 
+<img align="left" width="26px" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
+<img align="left" width="26px" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="26px" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
+<img align="left" width="26px" alt="gitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
+<img align="left" width="26px" alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
+<img align="left" width="26px" alt="expressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align="left" width="26px" alt="graphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" width="26px" alt="mongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<br/>
 
 [linkedin]: https://www.linkedin.com/in/fanishchandrakar/
 [linkRotationLF-Andriod]: https://play.google.com/store/apps/details?id=com.and_nanoprecise&hl=en_IN/
