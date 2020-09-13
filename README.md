@@ -4,6 +4,7 @@
 ## I'm a Software Engineer !
 
 <img align="right" alt="GIF" src="https://github.com/fanish29/fanish29/blob/master/coding-freak.gif?raw=true" width="400px" />
+<br/>
 
 - 💻 Currently working on 📱 RotationLF App
   - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> iOS][linkRotationLF-iOS]
