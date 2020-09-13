@@ -11,7 +11,7 @@
   - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px">][linkRotationLF-Andriod]
 - 🌱 Currently learning node.js, express.js and graphQL 🤣
 - 💪 Proficient in: Mobile App Dev, JavaScript, ES6, Node, React Native, Redux, Axois, ...
-- ⚡ Fun fact: I love to play 🎮 [Video Games][linkSteam]. Currently playing <img alt="Dota" src="https://github.com/fanish29/fanish29/blob/master/dota-2.png" width="20px"> [Dota 2][linkDota].
+- ⚡ Fun fact: Love to play 🎮 [Games][linkSteam]. Currently playing [<img alt="Dota" align="center" src="https://github.com/fanish29/fanish29/blob/master/dota-2.png" width="20px"> Dota 2][linkDota].
 
 <br/>
 <br/>
