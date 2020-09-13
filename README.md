@@ -1,9 +1,9 @@
 <!-- ### Hi there, 👋<br/> I'm Fanish Chandrakar - aka [FnH][linkedin] -->
 ### Hi there, <img alt="hello" src="https://github.com/fanish29/fanish29/blob/master/hello.webp" width="25px"><br/> I'm Fanish Chandrakar - aka [FnH][linkedin]
 
-  <img align="right" alt="GIF" src="https://github.com/fanish29/fanish29/blob/master/coding-freak.gif?raw=true" width="40%" />
-
 ## I'm a Software Engineer !
+
+<img align="right" alt="GIF" src="https://github.com/fanish29/fanish29/blob/master/coding-freak.gif?raw=true" width="400px" />
 
 - 💻 Currently working on 📱 RotationLF App
   - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> iOS][linkRotationLF-iOS]
