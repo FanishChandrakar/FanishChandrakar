@@ -11,10 +11,12 @@
   - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px">][linkRotationLF-Andriod]
 - 🌱 Currently learning node.js, express.js and graphQL 🤣
 - 💪 Proficient in: Mobile App Dev, JavaScript, ES6, Node, React Native, Redux, Axois, ...
-- ⚡ Fun fact: Love to play 🎮 [Games][linkSteam]. Currently playing [<img alt="Dota" align="center" src="https://github.com/fanish29/fanish29/blob/master/dota-2.png" width="20px"> Dota][linkDota].
+- ⚡ Fun fact: 
+  - Love to play 🎮 [Games][linkSteam]. Currently playing [<img alt="Dota" align="center" src="https://github.com/fanish29/fanish29/blob/master/dota-2.png" width="20px"> Dota][linkDota].
 
 <br/>
-<br/>
+
+---
 
 ###### `Connect With Me:`
 
@@ -25,7 +27,8 @@
 [<img align="left" width="30px" alt="Steam"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][linkSteam]
 
 <br/>
-<br/>
+
+---
 
 ###### `Languages And Tools:`
 
@@ -43,6 +46,13 @@
 <img align="left" width="30px" alt="mongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br/>
+
+---
+
+###### `Spotify Playing 🎧`
+
+[![Spotify](https://novatorem-brown-mu.vercel.app/api/spotify)](https://open.spotify.com/user/g4axfj5meymyt305dr60nvklp)
+
 
 [linkedin]: https://www.linkedin.com/in/fanishchandrakar/
 [linkRotationLF-Andriod]: https://play.google.com/store/apps/details?id=com.and_nanoprecise&hl=en_IN/
