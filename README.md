@@ -1,4 +1,5 @@
 <!-- ### Hi there, 👋<br/> I'm Fanish Chandrakar - aka [FnH][linkedin] -->
+
 ### Hi there, <img alt="hello" src="https://github.com/fanish29/fanish29/blob/master/hello.webp" width="25px"><br/> I'm Fanish Chandrakar - aka [FnH][linkedin]
 
 ## I'm a Software Engineer !
@@ -7,12 +8,12 @@
 <br/>
 
 - 💻 Currently working on 📱 RotationLF App
-  - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> - App Store][linkRotationLF-iOS]
-  - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> - Play Store][linkRotationLF-Andriod]
+  - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> - App Store][linkrotationlf-ios]
+  - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> - Play Store][linkrotationlf-andriod]
 - 🌱 Currently learning node.js, express.js and graphQL 🤣
 - 💪 Proficient in: Mobile App Dev, JavaScript, ES6, Node, React Native, Redux, Axois, ...
-- ⚡ Fun fact: 
-  - Love to play 🎮 [Games][linkSteam]. Currently playing [<img alt="Dota" align="center" src="https://github.com/fanish29/fanish29/blob/master/dota-2.png" width="20px"> Dota][linkDota].
+- ⚡ Fun fact:
+  - Love to play 🎮 [Games][linksteam]. Currently playing [<img alt="Dota" align="center" src="https://github.com/fanish29/fanish29/blob/master/dota-2.png" width="20px"> Dota][linkdota].
 
 <br/>
 
@@ -20,11 +21,11 @@
 
 ###### `Connect With Me:`
 
-[<img align="left" width="30px" alt="Gmail"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkGmail]
+[<img align="left" width="30px" alt="Gmail"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkgmail]
 [<img align="left" width="30px" alt="LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="30px" alt="WhatsApp"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][linkWhatsApp]
-[<img align="left" width="30px" alt="Skype"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][linkSkype]
-[<img align="left" width="30px" alt="Steam"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][linkSteam]
+[<img align="left" width="30px" alt="WhatsApp"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][linkwhatsapp]
+[<img align="left" width="30px" alt="Skype"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][linkskype]
+[<img align="left" width="30px" alt="Steam"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][linksteam]
 
 <br/>
 <br/>
@@ -55,13 +56,12 @@
 
 [![Spotify](https://novatorem-brown-mu.vercel.app/api/spotify)](https://open.spotify.com/user/g4axfj5meymyt305dr60nvklp)
 
-
 [linkedin]: https://www.linkedin.com/in/fanishchandrakar/
-[linkRotationLF-Andriod]: https://play.google.com/store/apps/details?id=com.and_nanoprecise&hl=en_IN/
-[linkRotationLF-iOS]: https://appstoreconnect.apple.com/apps/1451521554/appstore/info/
-[linkNanoprecise]: https://www.nanoprecisesc.com/
-[linkSteam]: https://steamcommunity.com/id/fnh29/
-[linkSkype]: https://join.skype.com/invite/f81p8jJSwVQp/
-[linkGmail]: mailto:chandrakarfanish@gmail.com
-[linkWhatsApp]: https://wa.me/917869761929
-[linkDota]: https://blog.dota2.com/
+[linkrotationlf-andriod]: https://play.google.com/store/apps/details?id=com.and_nanoprecise&hl=en_IN/
+[linkrotationlf-ios]: https://appstoreconnect.apple.com/apps/1451521554/appstore/info/
+[linknanoprecise]: https://www.nanoprecisesc.com/
+[linksteam]: https://steamcommunity.com/id/fnh29/
+[linkskype]: https://join.skype.com/invite/f81p8jJSwVQp/
+[linkgmail]: mailto:chandrakarfanish@gmail.com
+[linkwhatsapp]: https://wa.me/917869761929
+[linkdota]: https://blog.dota2.com/
