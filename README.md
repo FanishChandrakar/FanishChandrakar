@@ -27,6 +27,7 @@
 [<img align="left" width="30px" alt="Steam"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][linkSteam]
 
 <br/>
+<br/>
 
 ---
 
@@ -45,6 +46,7 @@
 <img align="left" width="30px" alt="graphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" width="30px" alt="mongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+<br/>
 <br/>
 
 ---
