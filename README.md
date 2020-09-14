@@ -56,6 +56,15 @@
 
 [![Spotify](https://novatorem-brown-mu.vercel.app/api/spotify)](https://open.spotify.com/user/g4axfj5meymyt305dr60nvklp)
 
+---
+
+###### `Github Stats`
+
+![FanishChandrakar's github stats](https://github-readme-stats.fanish29.vercel.app/api?username=FanishChandrakar&show_icons=true&hide_title=true)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  
+
 [linkedin]: https://www.linkedin.com/in/fanishchandrakar/
 [linkrotationlf-andriod]: https://play.google.com/store/apps/details?id=com.and_nanoprecise&hl=en_IN/
 [linkrotationlf-ios]: https://appstoreconnect.apple.com/apps/1451521554/appstore/info/
