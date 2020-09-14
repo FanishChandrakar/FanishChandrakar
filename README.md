@@ -58,7 +58,7 @@
 
 ---
 
-###### `Github Stats`
+###### `Github Stats 📈`
 
 ![FanishChandrakar's github stats](https://github-readme-stats.fanish29.vercel.app/api?username=FanishChandrakar&show_icons=true&hide_title=true)
 &nbsp;
