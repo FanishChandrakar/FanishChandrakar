@@ -61,7 +61,7 @@
 ###### `Github Stats`
 
 ![FanishChandrakar's github stats](https://github-readme-stats.fanish29.vercel.app/api?username=FanishChandrakar&show_icons=true&hide_title=true)
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 ![Top Langs](https://github-readme-stats.fanish29.vercel.app/api/top-langs/?username=FanishChandrakar&layout=compact)
   
 
