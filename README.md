@@ -62,7 +62,7 @@
 
 ![FanishChandrakar's github stats](https://github-readme-stats.fanish29.vercel.app/api?username=FanishChandrakar&show_icons=true&hide_title=true)
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.fanish29.vercel.app/api/top-langs/?username=FanishChandrakar&layout=compact)
   
 
 [linkedin]: https://www.linkedin.com/in/fanishchandrakar/
