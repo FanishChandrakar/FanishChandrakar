@@ -64,7 +64,7 @@
   <img align="center" src="https://github-readme-stats.fanish29.vercel.app/api?username=FanishChandrakar&show_icons=true&hide_title=true" />
 </a>
 <a href="https://github-readme-stats.fanish29.vercel.app/api/top-langs/?username=FanishChandrakar">
-  <img align="center" src="https://github-readme-stats.fanish29.vercel.app/api/top-langs/?username=FanishChandrakar&layout=compact" />
+  <img align="center" src="https://github-readme-stats.fanish29.vercel.app/api/top-langs/?username=FanishChandrakar&layout=compact&langs_count=6" />
 </a>
 
 
