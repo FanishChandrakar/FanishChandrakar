@@ -60,10 +60,13 @@
 
 ###### `Github Stats 📈`
 
-![FanishChandrakar's github stats](https://github-readme-stats.fanish29.vercel.app/api?username=FanishChandrakar&show_icons=true&hide_title=true)
-&nbsp;
-![Top Langs](https://github-readme-stats.fanish29.vercel.app/api/top-langs/?username=FanishChandrakar&layout=compact)
-  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.fanish29.vercel.app/api?username=FanishChandrakar&show_icons=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.fanish29.vercel.app/api/top-langs/?username=FanishChandrakar&layout=compact" />
+</a>
+
 
 [linkedin]: https://www.linkedin.com/in/fanishchandrakar/
 [linkrotationlf-andriod]: https://play.google.com/store/apps/details?id=com.and_nanoprecise&hl=en_IN/
