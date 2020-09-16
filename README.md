@@ -19,7 +19,7 @@
 
 ---
 
-###### `Connect With Me:`
+###### ` Connect With Me 🔗`
 
 [<img align="left" width="30px" alt="Gmail"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkgmail]
 [<img align="left" width="30px" alt="LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -32,7 +32,7 @@
 
 ---
 
-###### `Languages And Tools:`
+###### ` Languages And Tools 🛠️`
 
 <img align="left" width="30px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" width="30px" alt="javaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" /> 
@@ -52,13 +52,13 @@
 
 ---
 
-###### `Spotify Playing 🎧`
+###### ` Spotify Playing 🎶`
 
 [![Spotify](https://novatorem-brown-mu.vercel.app/api/spotify)](https://open.spotify.com/user/g4axfj5meymyt305dr60nvklp)
 
 ---
 
-###### `Github Stats 📈`
+###### ` Github Stats 📈`
 
 <a href="https://github-readme-stats.fanish29.vercel.app/api?username=FanishChandrakar&show_icons=true">
   <img align="center" src="https://github-readme-stats.fanish29.vercel.app/api?username=FanishChandrakar&show_icons=true&hide_title=true" />
