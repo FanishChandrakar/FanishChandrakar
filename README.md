@@ -34,18 +34,15 @@
 
 ###### `Languages And Tools 🛠️`
 
-<img align="left" width="30px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" width="30px" alt="javaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" /> 
-<img align="left" width="30px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
-<img align="left" width="30px" alt="reactNative" src="https://reactnative.dev/img/header_logo.svg" /> 
-<img align="left" width="30px" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
-<!-- <img align="left" width="30px" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
-<!-- <img align="left" width="30px" alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />  -->
-<!-- <img align="left" width="30px" alt="gitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />  -->
-<img align="left" width="30px" alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
-<img align="left" width="30px" alt="expressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" width="30px" alt="graphQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" width="30px" alt="mongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+[<img align="left" width="30px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" width="30px" alt="javaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />](https://www.javascript.com/)
+[<img align="left" width="30px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
+[<img align="left" width="30px" alt="reactNative" src="https://reactnative.dev/img/header_logo.svg" />](https://reactnative.dev/)
+[<img align="left" width="30px" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />](https://redux.js.org/)
+[<img align="left" width="30px" alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />](https://firebase.google.com/)
+[<img align="left" width="30px" alt="expressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://expressjs.com/)
+[<img align="left" width="30px" alt="graphQL" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />](https://graphql.org/)
+[<img align="left" width="30px" alt="mongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](https://www.mongodb.com/)
 
 <br/>
 <br/>
