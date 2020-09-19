@@ -21,11 +21,11 @@
 
 ###### ` Connect With Me 🔗`
 
-[<img align="left" width="30px" alt="Gmail"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkgmail]
-[<img align="left" width="30px" alt="LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="30px" alt="WhatsApp"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][linkwhatsapp]
-[<img align="left" width="30px" alt="Skype"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][linkskype]
-[<img align="left" width="30px" alt="Steam"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][linksteam]
+[<img align="left" width="30px" alt="Gmail"  src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][linkgmail]
+[<img align="left" width="30px" alt="LinkedIn"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" width="30px" alt="WhatsApp"  src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />][linkwhatsapp]
+[<img align="left" width="30px" alt="Skype"  src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" />][linkskype]
+[<img align="left" width="30px" alt="Steam"  src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" />][linksteam]
 
 <br/>
 <br/>
