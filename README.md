@@ -7,11 +7,11 @@
 <img align="right" alt="GIF" src="https://github.com/fanish29/fanish29/blob/master/coding-freak.gif?raw=true" width="400px" />
 <br/>
 
-- 💻 Currently working on 
-  - 📱 RotationLF App
+- 💻 Currently working on 📱
+  - RotationLF App
     - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> - App Store][linkrotationlf-ios]
     - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> - Play Store][linkrotationlf-andriod]
-  - 📱 SensAlloc App
+  - SensAlloc App
     - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> - App Store][linksensalloc-ios]
     - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> - Play Store][linksensalloc-andriod]
 - 🌱 Currently learning node.js, express.js and graphQL 🤣
