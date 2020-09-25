@@ -7,9 +7,13 @@
 <img align="right" alt="GIF" src="https://github.com/fanish29/fanish29/blob/master/coding-freak.gif?raw=true" width="400px" />
 <br/>
 
-- 💻 Currently working on 📱 RotationLF App
-  - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> - App Store][linkrotationlf-ios]
-  - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> - Play Store][linkrotationlf-andriod]
+- 💻 Currently working on 
+  - 📱 RotationLF App
+    - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> - App Store][linkrotationlf-ios]
+    - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> - Play Store][linkrotationlf-andriod]
+  - 📱 SensAlloc App
+    - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> - App Store][linksensalloc-ios]
+    - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> - Play Store][linksensalloc-andriod]
 - 🌱 Currently learning node.js, express.js and graphQL 🤣
 - 💪 Proficient in: Mobile App Dev, JavaScript, ES6, Node, React Native, Redux, Axois, ...
 - ⚡ Fun fact:
@@ -66,11 +70,13 @@
 
 
 [linkedin]: https://www.linkedin.com/in/fanishchandrakar/
-[linkrotationlf-andriod]: https://play.google.com/store/apps/details?id=com.and_nanoprecise&hl=en_IN/
-[linkrotationlf-ios]: https://appstoreconnect.apple.com/apps/1451521554/appstore/info/
+[linkrotationlf-andriod]: https://play.google.com/store/apps/details?id=com.and_nanoprecise
+[linkrotationlf-ios]: https://apps.apple.com/us/app/id1451521554
 [linknanoprecise]: https://www.nanoprecisesc.com/
 [linksteam]: https://steamcommunity.com/id/fnh29/
 [linkskype]: https://join.skype.com/invite/f81p8jJSwVQp/
 [linkgmail]: mailto:chandrakarfanish@gmail.com
 [linkwhatsapp]: https://wa.me/917869761929
 [linkdota]: https://blog.dota2.com/
+[linksensalloc-andriod]: https://play.google.com/store/apps/details?id=com.nanopreciseconfig
+[linksensalloc-ios]: https://apps.apple.com/us/app/id1532581066
