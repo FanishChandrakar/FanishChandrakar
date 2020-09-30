@@ -8,12 +8,8 @@
 <br/>
 
 - 💻 Currently working on 📱
-  - RotationLF App
-    - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> - App Store][linkrotationlf-ios]
-    - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> - Play Store][linkrotationlf-andriod]
-  - SensAlloc App
-    - [<img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> - App Store][linksensalloc-ios]
-    - [<img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> - Play Store][linksensalloc-andriod]
+  - RotationLF App ([ <img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> ][linkrotationlf-ios]/[ <img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> ][linkrotationlf-andriod])
+  - SensAlloc App ([ <img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> ][linksensalloc-ios]/[ <img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> ][linksensalloc-andriod])
 - 🌱 Currently learning node.js, express.js and graphQL 🤣
 - 💪 Proficient in: Mobile App Dev, JavaScript, ES6, Node, React Native, Redux, Axois, ...
 - ⚡ Fun fact:
