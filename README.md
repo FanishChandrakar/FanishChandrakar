@@ -35,10 +35,10 @@
 ###### `Languages And Tools 🛠️`
 
 [<img align="left" width="30px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" width="30px" alt="javaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />](https://www.javascript.com/)
+[<img align="left" width="30px" alt="javaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
 [<img align="left" width="30px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
 [<img align="left" width="30px" alt="reactNative" src="https://reactnative.dev/img/header_logo.svg" />](https://reactnative.dev/)
-[<img align="left" width="30px" alt="redux" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />](https://redux.js.org/)
+[<img align="left" width="30px" alt="redux" src="https://redux.js.org/img/redux.svg" />](https://redux.js.org/)
 [<img align="left" width="30px" alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />](https://firebase.google.com/)
 [<img align="left" width="30px" alt="expressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://expressjs.com/)
 [<img align="left" width="30px" alt="graphQL" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />](https://graphql.org/)
