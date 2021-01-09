@@ -8,8 +8,8 @@
 <br/>
 
 - 💻 Currently working on 📱
-  - RotationLF App ([ <img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> ][linkrotationlf-ios]/[ <img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> ][linkrotationlf-andriod])
-  - SensAlloc App ([ <img alt="ios" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apple.svg" width="15px"> ][linksensalloc-ios]/[ <img alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="15px"> ][linksensalloc-andriod])
+  - RotationLF App ([ <img alt="ios" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/apple.svg" width="15px"> ][linkrotationlf-ios]/[ <img alt="android" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/android-icon.svg" width="15px"> ][linkrotationlf-andriod])
+  - SensAlloc App ([ <img alt="ios" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/apple.svg" width="15px"> ][linksensalloc-ios]/[ <img alt="android" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/android-icon.svg" width="15px"> ][linksensalloc-andriod])
 - 🌱 Currently learning node.js, express.js and graphQL 🤣
 - 💪 Proficient in: Mobile App Dev, JavaScript, ES6, Node, React Native, Redux, Axois, ...
 - ⚡ Fun fact:
@@ -21,11 +21,11 @@
 
 ###### `Connect With Me 🔗`
 
-[<img align="left" width="30px" alt="Gmail"  src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][linkgmail]
-[<img align="left" width="30px" alt="LinkedIn"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" width="30px" alt="WhatsApp"  src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />][linkwhatsapp]
-[<img align="left" width="30px" alt="Skype"  src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" />][linkskype]
-[<img align="left" width="30px" alt="Steam"  src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" />][linksteam]
+[<img align="left" width="30px" alt="Gmail"  src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/gmail-icon.svg" />][linkgmail]
+[<img align="left" width="30px" alt="LinkedIn"  src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/linkedin-icon.svg" />][linkedin]
+[<img align="left" width="30px" alt="WhatsApp"  src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/whatsapp-icon.svg" />][linkwhatsapp]
+[<img align="left" width="30px" alt="Skype"  src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/skype-icon.svg" />][linkskype]
+[<img align="left" width="30px" alt="Steam"  src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/steampowered-icon.svg" />][linksteam]
 
 <br/>
 <br/>
@@ -34,15 +34,15 @@
 
 ###### `Languages And Tools 🛠️`
 
-[<img align="left" width="30px" alt="vsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" width="30px" alt="javaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
-[<img align="left" width="30px" alt="nodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
-[<img align="left" width="30px" alt="reactNative" src="https://reactnative.dev/img/header_logo.svg" />](https://reactnative.dev/)
-[<img align="left" width="30px" alt="redux" src="https://redux.js.org/img/redux.svg" />](https://redux.js.org/)
-[<img align="left" width="30px" alt="firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />](https://firebase.google.com/)
-[<img align="left" width="30px" alt="expressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />](https://expressjs.com/)
-[<img align="left" width="30px" alt="graphQL" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />](https://graphql.org/)
-[<img align="left" width="30px" alt="mongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](https://www.mongodb.com/)
+[<img align="left" width="30px" alt="vsCode" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/visualstudio_code-icon.svg" />][linkvisualstudio]
+[<img align="left" width="30px" alt="javaScript" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/javascript-icon.svg" />][linkjavascript]
+[<img align="left" width="30px" alt="nodeJS" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/nodejs-icon.svg" />][linknodejs]
+[<img align="left" width="30px" alt="reactNative" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/reactnative-logo.svg" />][linkreactnative]
+[<img align="left" width="30px" alt="redux" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/redux.svg" />][linkredux]
+[<img align="left" width="30px" alt="firebase" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/firebase-icon.svg" />][linkfirebase]
+[<img align="left" width="30px" alt="expressJS" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/expressjs-icon.svg" />][linkexpressjs]
+[<img align="left" width="30px" alt="graphQL" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/graphql-icon.svg" />][linkgraphql]
+[<img align="left" width="30px" alt="mongoDB" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/mongodb-icon.svg" />][linkmongodb]
 
 <br/>
 <br/>
@@ -64,7 +64,6 @@
 <!--   <img align="center" src="https://github-readme-stats.fanish29.vercel.app/api/top-langs/?username=FanishChandrakar&layout=compact&langs_count=6" /> -->
 <!-- </a> -->
 
-
 [linkedin]: https://www.linkedin.com/in/fanishchandrakar/
 [linkrotationlf-andriod]: https://play.google.com/store/apps/details?id=com.and_nanoprecise
 [linkrotationlf-ios]: https://apps.apple.com/us/app/id1451521554
@@ -76,3 +75,12 @@
 [linkdota]: https://blog.dota2.com/
 [linksensalloc-andriod]: https://play.google.com/store/apps/details?id=com.nanopreciseconfig
 [linksensalloc-ios]: https://apps.apple.com/us/app/id1532581066
+[linkvisualstudio]: https://code.visualstudio.com/
+[linkjavascript]: https://www.javascript.com/
+[linknodejs]: https://nodejs.org/en/
+[linkreactnative]: https://reactnative.dev/
+[linkredux]: https://redux.js.org/
+[linkfirebase]: https://firebase.google.com/
+[linkexpressjs]: https://expressjs.com/
+[linkgraphql]: https://graphql.org/
+[linkmongodb]: https://www.mongodb.com/
