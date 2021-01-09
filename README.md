@@ -13,7 +13,7 @@
 - 🌱 Currently learning node.js, express.js and graphQL 🤣
 - 💪 Proficient in: Mobile App Dev, JavaScript, ES6, Node, React Native, Redux, Axois, ...
 - ⚡ Fun fact:
-  - Love to play 🎮 [Games][linksteam]. Currently playing [<img alt="Dota" align="center" src="https://github.com/fanish29/fanish29/blob/master/dota-2.png" width="20px"> Dota][linkdota].
+  - Love to play 🎮 [Games][linksteam]. Currently playing [<img alt="Dota" align="center" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/dota-2.png" width="20px"> Dota][linkdota].
 
 <br/>
 
