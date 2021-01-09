@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer !
 
-<img align="right" alt="GIF" src="https://github.com/fanish29/fanish29/blob/master/coding-freak.gif?raw=true" width="400px" />
+<img align="right" alt="GIF" src="https://github.com/FanishChandrakar/FanishChandrakar/blob/master/resource/coding-freak.gif?raw=true" width="400px" />
 <br/>
 
 - 💻 Currently working on 📱
