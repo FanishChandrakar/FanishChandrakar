@@ -61,7 +61,7 @@
   <img align="center" src="https://github-readme-stats.fanishchandrakar.vercel.app/api?username=FanishChandrakar&show_icons=true&hide_title=true" />
 </a>
 <a href="https://github-readme-stats.fanishchandrakar.vercel.app/api/top-langs/?username=FanishChandrakar">
-  <img align="center" src="https://github-readme-stats.fanishchandrakar.vercel.app/api/top-langs/?username=FanishChandrakar&layout=compact&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.fanishchandrakar.vercel.app/api/top-langs/?username=FanishChandrakar&layout=compact&langs_count=5" />
 </a>
 
 [linkedin]: https://www.linkedin.com/in/fanishchandrakar/
