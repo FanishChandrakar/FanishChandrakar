@@ -51,7 +51,7 @@
 
 ###### `Spotify Playing 🎶`
 
-[![Spotify](https://novatorem-brown-mu.vercel.app/api/spotify)](https://open.spotify.com/user/g4axfj5meymyt305dr60nvklp)
+[![Spotify](https://fanishchandrakar-novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/g4axfj5meymyt305dr60nvklp)
 
 ---
 
